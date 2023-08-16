@@ -1,0 +1,48 @@
+/* Main Header of Pages */
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 4em;
+}
+
+/* Sub Heading of Pages */
+h3 {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 2.5em;
+}
+
+li {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: left;
+    margin: 1em;
+    font-size: 1.5em;   
+}
+
+div.recipies{
+    padding: 50px;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+
+
+a:hover {
+    text-decoration: none;
+    color: purple;
+}
+
+
+a:active {
+    text-decoration: none;
+    color: black;
+}
+
